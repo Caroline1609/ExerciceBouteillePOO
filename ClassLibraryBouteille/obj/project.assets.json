@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cabiehler\\OneDrive - CENTRE DE READAPTATION\\Documents\\ExoBouteillePOO\\ClassLibraryBouteille\\ClassLibraryBouteille.csproj",
+      "projectUniqueName": "C:\\Users\\cabiehler\\OneDrive - CENTRE DE READAPTATION\\Documents\\POO\\ExerciceBouteillePOO\\ClassLibraryBouteille\\ClassLibraryBouteille.csproj",
       "projectName": "ClassLibraryBouteille",
-      "projectPath": "C:\\Users\\cabiehler\\OneDrive - CENTRE DE READAPTATION\\Documents\\ExoBouteillePOO\\ClassLibraryBouteille\\ClassLibraryBouteille.csproj",
+      "projectPath": "C:\\Users\\cabiehler\\OneDrive - CENTRE DE READAPTATION\\Documents\\POO\\ExerciceBouteillePOO\\ClassLibraryBouteille\\ClassLibraryBouteille.csproj",
       "packagesPath": "C:\\Users\\cabiehler\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cabiehler\\OneDrive - CENTRE DE READAPTATION\\Documents\\ExoBouteillePOO\\ClassLibraryBouteille\\obj\\",
+      "outputPath": "C:\\Users\\cabiehler\\OneDrive - CENTRE DE READAPTATION\\Documents\\POO\\ExerciceBouteillePOO\\ClassLibraryBouteille\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
